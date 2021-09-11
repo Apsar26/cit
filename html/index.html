@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width,intial-scale=1.0">
+    <title>Chennai Institute Of Technology</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,700;1,600&display=swap" rel="stylesheet">
+<link rel="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous"/>
+    
+    </head>
+    <body>
+        <section class="header">
+            <nav>
+                <a href="index.html"><img src="../images/logo.jpg"></a>
+                <div class="nav-links" id="navlinks">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="faculty.html">FACULITY</a></li>
+                        <li><a href="acheivements.html">ACHEIVEMENTS</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+            
+            <div class="text-box">
+            <h1>We Ensure A Better Education For<br> A Better World</h1>
+                <p>Chennai institute Of Technology,is one of the best engineering college in Chennai,is affiliated by Anna University and approved by AICTE,UGC,NBA.</p>
+            <a href="https://www.citchennai.edu.in/" class="hero-btn">Visit Us To Know More</a>
+                </div>
+            
+        </section>
+        
+      
+        
+        <!-----Course---->
+        <section class="Course">
+            <h1>Courses Offered</h1>
+            <p>The Department of Computer Science is one of the largest and well established centres of learning computer science inSouth India offering B.E, B.Tech,  M.E programmes.</p>
+            
+            <div class="row">
+            <div class="course-col">
+                <h3>B.E</h3>
+                <p>Bachelor of Engineering in Computer Science engineering is a full-time engineering undergraduate degree course in the field of computer science. It deals with the design, maintenance, construction and operation of computer hardware and software.</p>
+            </div>
+                <div class="course-col">
+                <h3>Btech</h3>
+                <p>Bachelor of technology in computer science and engineering is a undergraduate degree which teaches a candidate about every aspect of Computer Engineering. It includes a detailed study of coding languages, along with various other important concepts on Computer Architecture, Artificial Intelligence, Cyber Security, etc.</p>
+                </div>
+                <div class="course-col">
+                <h3>M.E</h3>
+                <p>Master of Engineering in Computer Science and Engineering is a knowledge oriented course</p>
+               </div>
+            </div>
+        
+        </section>
+        <section class="campus">
+            <h1>Our CIT Campus</h1>
+            <p>Campus has well established research centres carrying out real time projects in different areas in computer science, funded by the industry and the government.</p>
+             <div class="row">
+                  <div class="campus-col">
+                        <img src="../images/campus.png">
+                        <div class="layer">
+                        <h3>kuka Robert</h3></div>
+                    </div>
+                    <div class="campus-col">
+                        <img src="../images/campus.2.jpg">
+                        <div class="layer">
+                        <h3>solar</h3></div>
+                    </div>
+                
+                 <div class="campus-col">
+                        <img src="../images/ILP1.png">
+                        <div class="layer">
+                        <h3>Lab</h3></div>
+                    </div>
+            </div>
+        </section>
+    <!---- facilities ---->
+    <section class="Facilities">
+        <h1>Our Facilities</h1>
+        <p>Chennai Institute of Technology facilities and infrastructure help the students in experiencing a hassle free learning environment. </p>
+        <div class="row">
+            <div class="Facilities-col">
+                <img src="../images/library.png">
+                <h3>Library</h3>
+                <p>CIT facilities include many laboratories which are provided to the students for experiential learning. These include Physics Lab, Chemistry Lab, Computer Lab, and many more. </p>
+            </div>
+            <div class="Facilities-col">
+                <img src="../images/Cafeteria%20(1).png">
+                <h3>Cafeteria</h3>
+                <p>Chennai Institute of Technology canteen provides food to the students round the clock.</p>
+            </div>
+            <div class="Facilities-col">
+                <img src="../images/gym.png">
+                <h3>Sports&Gym</h3>
+                <p>CIT provides opportunities for students to participate in sports in college campus,gymnasium is equipped with modern equipment and is spread over 2128 sq ft</p>
+            </div>
+            
+        </div>
+    </section>
+    
+    <section class="cta">
+        <h1>Transforming Lives</h1>
+        <a href="https://www.citchennai.edu.in/contact-us/" class="hero-btn">contact Us</a>
+    </section>
+        
+    <section class="footer">
+        <h4>Follow Us on</h4>
+        
+        <div class="icons">
+            
+            <a href="https://www.facebook.com/chennaiinstituteoftechnology/"><i class="fa fa-2x fa-facebook"></i></a>
+            <a href="https://twitter.com/citchennai?lang=en"><i class="fa fa-2x fa-twitter"></i></a>
+            <a href="https://www.instagram.com/citchennai_engineering/?hl=en"><i class="fa fa-2x fa-instagram"></i></a>
+            <a href="https://in.linkedin.com/school/chennai-institute-of-technology/"><i class="fa fa-2x fa-linkedin"></i></a>
+        </div>
+    </section>
+        <script>
+            var navinks=document.getElementById("navlinks");
+            function showMenu(){
+                navlinks.style.right="0";
+            }
+            function hideMenu(){
+                navlinks.style.right="-200px";
+            }
+        </script>
+    </body>

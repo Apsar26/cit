@@ -1,0 +1,1915 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://onlinepngtools.com/resize-png -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="theme-color" content="#5581b5">
+    <title>Resize a PNG - Online PNG Maker</title>
+    <meta name="description" content="World&#39;s simplest online utility that resizes a PNG image. Free, quick, and powerful. Import PNG, resize PNG.">
+
+    <meta property="og:title" content="Resize a PNG - Online PNG Maker">
+    <meta property="og:description" content="World&#39;s simplest online utility that resizes a PNG image. Free, quick, and powerful. Import PNG, resize PNG.">
+    <meta property="og:url" content="https://onlinepngtools.com/resize-png">
+    <meta property="og:image" content="https://onlinepngtools.com/images/preview-image-onlinepngtools.png">
+    <meta property="fb:app_id" content="293802344440222">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@browserling">
+    <meta name="twitter:title" content="Resize a PNG - Online PNG Maker">
+    <meta name="twitter:description" content="World&#39;s simplest online utility that resizes a PNG image. Free, quick, and powerful. Import PNG, resize PNG.">
+    <meta name="twitter:creator" content="@browserling">
+    <meta name="twitter:image:src" content="https://onlinepngtools.com/images/preview-image-onlinepngtools.png">
+
+    <link href="https://onlinepngtools.com/resize-png" rel="canonical">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link rel="preload" as="style" href="./faclt_files/css2">
+    <link href="./faclt_files/css2" rel="stylesheet" type="text/css" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);">
+
+    <!--[if IE]>
+    <script src="/js/ie-polyfill.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" async="" src="./faclt_files/analytics.js.download"></script><script src="./faclt_files/save-as.js.download" defer=""></script>
+    <script src="./faclt_files/textarea-autosize.js.download" defer=""></script>
+    <script src="./faclt_files/zenscroll.js.download" defer=""></script>
+    <script src="./faclt_files/lazysizes.5.3.2.min.js.download" defer=""></script>
+
+    <script src="./faclt_files/site.js.download" defer=""></script>
+    <script src="./faclt_files/converter.js.download" defer=""></script>
+
+    
+            <script class="unique-resource" src="./faclt_files/resize-image.js.download" defer=""></script>
+            <script class="unique-resource" src="./faclt_files/canvas-toblob-polyfill.js.download" defer=""></script>
+            <script class="unique-resource" src="./faclt_files/imagefit.js.download" defer=""></script>
+            <script class="unique-resource" src="./faclt_files/interactable.js.download" defer=""></script>
+    
+
+    <meta data-marker="resources">
+
+    <link rel="stylesheet" href="./faclt_files/stylesheet.css">
+</head>
+<body class="codepair-extension-installed">
+<div class="page-content">
+    <div class="svg-sprites"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol id="icon-build" viewBox="0 0 24 24">
+        <path d="M22.7 19l-9.1-9.1c.9-2.3.4-5-1.5-6.9c-2-2-5-2.4-7.4-1.3L9 6L6 9L1.6 4.7C.4 7.1.9 10.1 2.9 12.1c1.9 1.9 4.6 2.4 6.9 1.5l9.1 9.1c.4.4 1 .4 1.4 0l2.3-2.3c.5-.4.5-1.1.1-1.4z"></path>
+    </symbol>
+    <symbol id="icon-announcement" viewBox="0 0 24 24">
+        <path d="M23 12l-2.44-2.78l.34-3.68l-3.61-.82l-1.89-3.18L12 3L8.6 1.54L6.71 4.72l-3.61.81l.34 3.68L1 12l2.44 2.78l-.34 3.69l3.61.82l1.89 3.18L12 21l3.4 1.46l1.89-3.18l3.61-.82l-.34-3.68L23 12zm-10 5h-2v-2h2v2zm0-4h-2V7h2v6z"></path>
+    </symbol>
+    <symbol id="icon-bug-report" viewBox="0 0 24 24">
+        <path d="M20 8h-2.81a5.985 5.985 0 0 0-1.82-1.96L17 4.41L15.59 3l-2.17 2.17C12.96 5.06 12.49 5 12 5c-.49 0-.96.06-1.41.17L8.41 3L7 4.41l1.62 1.63C7.88 6.55 7.26 7.22 6.81 8H4v2h2.09c-.05.33-.09.66-.09 1v1H4v2h2v1c0 .34.04.67.09 1H4v2h2.81c1.04 1.79 2.97 3 5.19 3s4.15-1.21 5.19-3H20v-2h-2.09c.05-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.04-.67-.09-1H20V8zm-6 8h-4v-2h4v2zm0-4h-4v-2h4v2z"></path>
+    </symbol>
+    <symbol id="icon-tools-list" viewBox="0 0 24 24">
+        <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"></path>
+    </symbol>
+    <symbol id="icon-coming-soon" viewBox="0 0 24 24">
+        <path d="M17 5H3a2 2 0 0 0-2 2v9h2c0 1.65 1.34 3 3 3s3-1.35 3-3h5.5c0 1.65 1.34 3 3 3s3-1.35 3-3H23v-5l-6-6zM3 11V7h4v4H3zm3 6.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5s1.5.67 1.5 1.5s-.67 1.5-1.5 1.5zm7-6.5H9V7h4v4zm4.5 6.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5s1.5.67 1.5 1.5s-.67 1.5-1.5 1.5zM15 11V7h1l4 4h-5z"></path>
+    </symbol>
+    <symbol id="icon-email" viewBox="0 0 24 24">
+        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5l-8-5V6l8 5l8-5v2z"></path>
+    </symbol>
+    <symbol id="icon-feedback" viewBox="0 0 24 24">
+        <path d="M21 6h-2v9H6v2c0 .55.45 1 1 1h11l4 4V7c0-.55-.45-1-1-1zm-4 6V3c0-.55-.45-1-1-1H3c-.55 0-1 .45-1 1v14l4-4h10c.55 0 1-.45 1-1z"></path>
+    </symbol>
+    <symbol id="icon-with-love" viewBox="0 0 24 24">
+        <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5C2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path>᠎᠎᠎          
+    </symbol>
+    <symbol id="icon-cake" viewBox="0 0 24 24">
+        <path d="M12 6a2 2 0 0 0 2-2c0-.38-.1-.73-.29-1.03L12 0l-1.71 2.97c-.19.3-.29.65-.29 1.03c0 1.1.9 2 2 2zm4.53 9.92l-1-1l-1.08 1.07c-1.3 1.3-3.58 1.31-4.89 0l-1.07-1.07l-1.09 1.07C6.75 16.64 5.88 17 4.96 17c-.73 0-1.4-.23-1.96-.61V22h18v-5.61c-.75.51-1.71.75-2.74.52c-.66-.14-1.25-.51-1.73-.99zM18 9h-5V7h-2v2H6c-1.66 0-3 1.34-3 3v1.54c0 1.08.88 1.96 1.96 1.96c.52 0 1.02-.2 1.38-.57l2.14-2.13l2.13 2.13c.74.74 2.03.74 2.77 0l2.14-2.13l2.13 2.13c.37.37.86.57 1.38.57c1.08 0 1.96-.88 1.96-1.96V12C21 10.34 19.66 9 18 9z"></path>
+    </symbol>
+    <symbol id="icon-lock" viewBox="0 0 24 24">
+        <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2s2 .9 2 2s-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1c1.71 0 3.1 1.39 3.1 3.1v2z"></path>
+    </symbol>
+    <symbol id="icon-school" viewBox="0 0 24 24">
+        <path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3L1 9l11 6l9-4.91V17h2V9L12 3z"></path>
+    </symbol>
+    <symbol id="icon-help" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41c0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"></path>
+    </symbol>
+    <symbol id="icon-book" viewBox="0 0 24 24">
+        <path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"></path>
+    </symbol>
+    <symbol id="icon-gear" viewBox="0 0 24 24">
+        <path d="M19.44 12.99l-.01.02c.04-.33.08-.67.08-1.01c0-.34-.03-.66-.07-.99l.01.02l2.44-1.92l-2.43-4.22l-2.87 1.16l.01.01c-.52-.4-1.09-.74-1.71-1h.01L14.44 2H9.57l-.44 3.07h.01c-.62.26-1.19.6-1.71 1l.01-.01l-2.88-1.17l-2.44 4.22l2.44 1.92l.01-.02c-.04.33-.07.65-.07.99c0 .34.03.68.08 1.01l-.01-.02l-2.1 1.65l-.33.26l2.43 4.2l2.88-1.15l-.02-.04c.53.41 1.1.75 1.73 1.01h-.03L9.58 22h4.85s.03-.18.06-.42l.38-2.65h-.01c.62-.26 1.2-.6 1.73-1.01l-.02.04l2.88 1.15l2.43-4.2s-.14-.12-.33-.26l-2.11-1.66zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5s-1.57 3.5-3.5 3.5z"></path>
+    </symbol>
+    <symbol id="icon-info" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"></path>
+    </symbol>
+    <symbol id="icon-visibility-off" viewBox="0 0 24 24">
+        <path d="M12 7c2.76 0 5 2.24 5 5c0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75c-1.73-4.39-6-7.5-11-7.5c-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28l.46.46A11.804 11.804 0 0 0 1 12c1.73 4.39 6 7.5 11 7.5c1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22L21 20.73L3.27 3L2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65c0 1.66 1.34 3 3 3c.22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53c-2.76 0-5-2.24-5-5c0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15l.02-.16c0-1.66-1.34-3-3-3l-.17.01z"></path>
+    </symbol>
+    <symbol id="icon-warning" viewBox="0 0 24 24">
+        <path d="M1 21h22L12 2L1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"></path>
+    </symbol>
+    <symbol id="icon-notifications" viewBox="0 0 24 24">
+        <path d="M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"></path>
+    </symbol>
+    <symbol id="icon-fullscreen" viewBox="0 0 24 24">
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"></path>
+    </symbol>
+    <symbol id="icon-fullscreen-exit" viewBox="0 0 24 24">
+        <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z"></path>
+    </symbol>
+    <symbol id="icon-swap-horiz" viewBox="0 0 24 24">
+        <path d="M6.99 11L3 15l3.99 4v-3H14v-2H6.99v-3zM21 9l-3.99-4v3H10v2h7.01v3L21 9z"></path>
+    </symbol>
+    <symbol id="icon-star" viewBox="0 0 24 24">
+        <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2L9.19 8.63L2 9.24l5.46 4.73L5.82 21L12 17.27z"></path>
+    </symbol>
+    <symbol id="icon-link" viewBox="0 0 24 24">
+        <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </symbol>
+    <symbol id="icon-tweet" viewBox="0 0 24 24">
+        <path d="M22.46,6C21.69,6.35 20.86,6.58 20,6.69C20.88,6.16 21.56,5.32 21.88,4.31C21.05,4.81 20.13,5.16 19.16,5.36C18.37,4.5 17.26,4 16,4C13.65,4 11.73,5.92 11.73,8.29C11.73,8.63 11.77,8.96 11.84,9.27C8.28,9.09 5.11,7.38 3,4.79C2.63,5.42 2.42,6.16 2.42,6.94C2.42,8.43 3.17,9.75 4.33,10.5C3.62,10.5 2.96,10.3 2.38,10C2.38,10 2.38,10 2.38,10.03C2.38,12.11 3.86,13.85 5.82,14.24C5.46,14.34 5.08,14.39 4.69,14.39C4.42,14.39 4.15,14.36 3.89,14.31C4.43,16 6,17.26 7.89,17.29C6.43,18.45 4.58,19.13 2.56,19.13C2.22,19.13 1.88,19.11 1.54,19.07C3.44,20.29 5.7,21 8.12,21C16,21 20.33,14.46 20.33,8.79C20.33,8.6 20.33,8.42 20.32,8.23C21.16,7.63 21.88,6.87 22.46,6Z"></path>
+    </symbol>
+    <symbol id="icon-chevron-right" viewBox="0 0 24 24">
+        <path d="M10 6L8.59 7.41L13.17 12l-4.58 4.59L10 18l6-6l-6-6z"></path>
+    </symbol>
+    <symbol id="icon-open-in-new" viewBox="0 0 24 24">
+        <path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83l1.41 1.41L19 6.41V10h2V3h-7z"></path>
+    </symbol>
+    <symbol id="icon-color-picker" viewBox="0 0 24 24">
+        <path d="M12 3a9 9 0 0 0 0 18c.83 0 1.5-.67 1.5-1.5c0-.39-.15-.74-.39-1.01c-.23-.26-.38-.61-.38-.99c0-.83.67-1.5 1.5-1.5H16c2.76 0 5-2.24 5-5c0-4.42-4.03-8-9-8zm-5.5 9c-.83 0-1.5-.67-1.5-1.5S5.67 9 6.5 9S8 9.67 8 10.5S7.33 12 6.5 12zm3-4C8.67 8 8 7.33 8 6.5S8.67 5 9.5 5s1.5.67 1.5 1.5S10.33 8 9.5 8zm5 0c-.83 0-1.5-.67-1.5-1.5S13.67 5 14.5 5s1.5.67 1.5 1.5S15.33 8 14.5 8zm3 4c-.83 0-1.5-.67-1.5-1.5S16.67 9 17.5 9s1.5.67 1.5 1.5s-.67 1.5-1.5 1.5z"></path>
+    </symbol>
+    <symbol id="icon-flash-on" viewBox="0 0 24 24">
+        <path d="M7 2v11h3v9l7-12h-4l4-8z"></path>
+    </symbol>
+    <symbol id="icon-check" viewBox="0 0 24 24">
+        <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z"></path>
+    </symbol>
+    <symbol id="icon-close" viewBox="0 0 24 24">
+        <path d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41z"></path>
+    </symbol>
+    <symbol id="icon-search" viewBox="0 0 24 24">
+        <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5A6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5S14 7.01 14 9.5S11.99 14 9.5 14z"></path>
+    </symbol>
+    <symbol id="icon-wait" viewBox="0 0 24 24">
+        <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8s8 3.58 8 8s-3.58 8-8 8zm.5-13H11v6l5.25 3.15l.75-1.23l-4.5-2.67z"></path>
+    </symbol>
+    <symbol id="icon-error" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"></path>
+    </symbol>
+</svg>
+</div>
+    <div class="page container">
+        <div class="header clearfix">
+            <div class="left-side">
+    <div class="logo">
+        <a href="https://onlinepngtools.com/"><img alt="onlinepngtools logo" src="./faclt_files/logo-onlinepngtools.png"></a>
+    </div>
+    <div class="fffff">51K</div>
+</div>
+<div class="right-side">
+    <div class="network">
+        <select>
+                        <optgroup label="Our Network">
+                                                            <option data-location="aHR0cHM6Ly9vbmxpbmVjc3Z0b29scy5jb20=">Online CSV Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV0c3Z0b29scy5jb20=">Online TSV Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVqc29udG9vbHMuY29t">Online JSON Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV5YW1sdG9vbHMuY29t">Online YAML Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV4bWx0b29scy5jb20=">Online XML Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVtYXRodG9vbHMuY29t">Online MATH Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVmcmFjdGFsdG9vbHMuY29t">Online FRACTAL Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVudW1iZXJ0b29scy5jb20=">Online NUMBER Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVpbnRlZ2VydG9vbHMuY29t">Online INTEGER Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV1bmljb2RldG9vbHMuY29t">Online UNICODE Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVhc2NpaXRvb2xzLmNvbQ==">Online ASCII Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV1dGY4dG9vbHMuY29t">Online UTF8 Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmViaW5hcnl0b29scy5jb20=">Online BINARY Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVoZXh0b29scy5jb20=">Online HEX Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV0ZXh0dG9vbHMuY29t">Online TEXT Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVzdHJpbmd0b29scy5jb20=">Online STRING Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVyYW5kb210b29scy5jb20=">Online RANDOM Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVpbWFnZXRvb2xzLmNvbQ==">Online IMAGE Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVqcGd0b29scy5jb20=">Online JPG Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVwbmd0b29scy5jb20=">Online PNG Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVnaWZ0b29scy5jb20=">Online GIF Tools</option>
+                                    
+            </optgroup>
+                        <optgroup label="Coming Soon">
+                                                            <option data-location="aHR0cHM6Ly9vbmxpbmVmaWxldG9vbHMuY29t">Online FILE Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVoYXNodG9vbHMuY29t">Online HASH Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVjcnlwdG90b29scy5jb20=">Online CRYPTO Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmViaXRtYXB0b29scy5jb20=">Online BITMAP Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVsaW51eHRvb2xzLmNvbQ==">Online LINUX Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV0aW1ldG9vbHMuY29t">Online TIME Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmViYXNlNjR0b29scy5jb20=">Online BASE64 Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVsaXN0dG9vbHMuY29t">Online LIST Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVzZXR0b29scy5jb20=">Online SET Tools</option>
+                                    
+            </optgroup>
+                                    <optgroup label="Coming Later" disabled="">
+                                                            <option data-location="aHR0cHM6Ly9vbmxpbmVwZGZ0b29scy5jb20=">Online PDF Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVhdWRpb3Rvb2xzLmNvbQ==">Online AUDIO Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVicm93c2VydG9vbHMuY29t">Online BROWSER Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVjc3N0b29scy5jb20=">Online CSS Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmVqc3Rvb2xzLmNvbQ==">Online JS Tools</option>
+                                                                                <option data-location="aHR0cHM6Ly9vbmxpbmV0YWJsZXRvb2xzLmNvbQ==">Online TABLE Tools</option>
+                                    
+            </optgroup>
+                        <optgroup disabled="" label="And 10 more!"></optgroup>
+        </select>
+    </div>
+</div>
+
+        </div>
+                <div class="content">
+            <style>
+    .site-logo {
+        width: 32px;
+        height: 32px;
+        display: inline-block;
+        vertical-align: middle;
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAATSUhEUm9ubGluZXBuZ3Rvb2xzLmNvbS9yZXNpemUtcG5nCjEwNi4yMTcuMTk2LjEwNw==");
+        position: relative;
+        padding: 16px;
+    }
+</style>
+                
+
+            <div class="section tool-title">
+                <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-build"></use></svg></div>
+                <div class="body">
+                    <div class="body-title">
+                        <h1 class="primary">Png resizer</h1>
+                        <h2 class="secondary">World's simplest png tool</h2>
+                    </div>
+                    <div class="body-content">
+                        World's simplest online Portable Network Graphics (PNG) image resizer. Just import your PNG file in the editor on the left and you will instantly get a resized PNG on the right. Free, quick, and very powerful. Import a PNG – resize a PNG. Created with love by <a href="https://www.browserling.com/?from=tools-png-ld-2021-04-25" rel="nofollow">team Browserling</a>.
+                    </div>
+                </div>
+            </div>
+                            <div class="section announcement">
+    <div class="icon"><svg class="svg-icon svg-icon-announcement"><use xlink:href="#icon-announcement"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Check out our main project!</span>
+            <span class="secondary">Browserling</span>
+        </div>
+        <div class="body-content">
+            We created <a href="https://browserling.com/?from=tools-png-t6-2020-12-28">Browserling</a> – get a cloud browser in 5 seconds. Check it out!
+        </div>
+    </div>
+</div>
+
+                                                            <div class="all-tools-container">
+                <div class="section sides tool tool-primary" data-override-options="" data-accepts="image" data-returns="image" data-tool-url="resize-png" data-tool-bridge="resize-image">
+    <div class="chain-link"></div>
+    <div class="icon icon_settings"><svg class="svg-icon"><use xlink:href="#icon-gear"></use></svg></div>
+    <div class="tool-inline">
+                <div title="Swap tools" class="tool-swap" data-swap-to="">
+            <svg class="svg-icon"><use xlink:href="#icon-swap-horiz"></use></svg>
+        </div>
+        <div title="Mark as favorite" class="tool-favorite">
+            <svg class="svg-icon"><use xlink:href="#icon-star"></use></svg>
+        </div>
+        <div title="Share this tool" class="tool-create-link">
+            <svg class="svg-icon"><use xlink:href="#icon-link"></use></svg>
+            <div class="tool-link">
+                <div class="tool-link-text">
+                    A link to this tool, including input, options and all chained tools.
+                </div>
+                <input type="text">
+            </div>
+        </div>
+        <div title="Tweet this tool" class="tool-tweet">
+                        <div class="tweet-link-button" data-tweet-url="https://twitter.com/intent/tweet?text=Resize+a+PNG+%E2%80%93+Online+PNG+Maker+https%3A%2F%2Fonlinepngtools.com%2Fresize-png">
+                <svg class="svg-icon"><use xlink:href="#icon-tweet"></use></svg>
+            </div>
+        </div>
+    </div>
+    <div class="body">
+        <div class="sides-wrapper clearfix">
+                            <div class="side input" data-theme="">
+                    <label>
+                        <span class="data-type">original png</span>
+                        <span class="status" animation-id="0.7621055784024611"></span>
+                    </label>
+                    <div class="side-box">
+                        <div class="
+                            side-wrapper
+                            immersive                                                        ">
+                            <div class="badge">
+                                <div class="badge-icon"></div>
+                                <div class="badge-body">
+                                    <div class="badge-title"></div>
+                                    <div class="badge-message"></div>
+                                </div>
+                            </div>
+                                                            <div class="input-canvas-help">
+                                    <span>
+                                        <div class="help-normal">
+                                            Click here to select an image from your device, press Ctrl+V to use an image from your clipboard, drag and drop a file from desktop, or load an image from any example below.
+                                        </div>
+                                        <div class="help-mouse">
+                                            Release your mouse to import this file.
+                                        </div>
+                                        <div class="help-wait">
+                                            Your file is being imported...
+                                        </div>
+                                    </span>
+                                </div>
+                                                                    <div class="preview-scrollable">
+                                        <canvas class="preview not-empty" data-scroll="enabled" width="478" height="306" data-scroll-x="-240" data-scroll-y="-84" data-prev-x="704" data-prev-y="323"></canvas>
+                                        <canvas class="background" width="478" height="306"></canvas>
+                                    </div>
+                                                                <canvas class="data not-empty" width="589" height="292"></canvas>
+                                                    </div>
+                        <div class="side-widgets">
+                            <div class="side-widgets-wrapper">
+                                <div class="widget widget-load">
+                                    Import from file
+                                    <input type="file">
+                                </div>
+                                <div data-toggle="toggle-save-as" class="widget">
+                                    Save as...
+                                </div>
+                                <div class="widget widget-copy">
+                                    Copy to clipboard
+                                </div>
+                            </div>
+                            <div class="side-widgets-toggle">
+                                <div class="toggle-wrapper">
+                                    <div class="widget-toggle toggle-save-as">
+                                        <div data-hides-toggle="" class="widget widget-save-as">
+                                            Download
+                                        </div>
+                                        <div class="widget widget-pastebin is-disabled" title="Coming soon!">
+                                            Export to Pastebin
+                                        </div>
+                                    </div>
+                                    <div class="toggle-hide">
+                                        <svg class="svg-icon"><use xlink:href="#icon-close"></use></svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                        <div class="side output combinator-active" data-theme="">
+                    <label>
+                        <span class="data-type">resized png</span>
+                        <span class="status" animation-id="0.13362705066343183"></span>
+                    </label>
+                    <div class="side-box">
+                        <div class="
+                            side-wrapper
+                            immersive                                                        ">
+                            <div class="tool-combinator">
+                                <div class="combinator-list">
+                                    <div class="combinator-tools"><div class="combinator-tool" data-url="base-64-encode-bitmap"><span class="combinator-title">Base-64 Encode a Bitmap</span><span class="combinator-description">Quickly convert a BMP file to the base-64 encoding.</span></div><div class="combinator-tool" data-url="create-transparent-bitmap"><span class="combinator-title">Create a Transparent Bitmap</span><span class="combinator-description">Quickly convert an opaque bitmap to a transparent bitmap.</span></div><div class="combinator-tool" data-url="resize-bitmap"><span class="combinator-title">Resize a Bitmap</span><span class="combinator-description">Quickly change the width/height of a bitmap.</span></div><div class="combinator-tool" data-url="animate-bitmap-sprites"><span class="combinator-title">Animate a Bitmap Sprite Sheet</span><span class="combinator-description">Quickly animate a bitmap sprite sheet.</span></div><div class="combinator-tool" data-url="play-gif"><span class="combinator-title">Play a GIF Frame by Frame</span><span class="combinator-description">Quickly view, play and download individual GIF frames.</span></div><div class="combinator-tool" data-url="convert-gif-to-sprite-sheet"><span class="combinator-title">Convert a GIF to a Sprite Sheet</span><span class="combinator-description">Quickly create a sprite sheet from all GIF frames.</span></div><div class="combinator-tool" data-url="convert-sprite-sheet-to-gif"><span class="combinator-title">Convert a Sprite Sheet to a GIF</span><span class="combinator-description">Quickly create a GIF animation from a sprite strip.</span></div><div class="combinator-tool" data-url="change-gif-speed"><span class="combinator-title">Change GIF Playback Speed</span><span class="combinator-description">Quickly change the speed a GIF animation is played at.</span></div><div class="combinator-tool" data-url="flip-gif"><span class="combinator-title">Flip a GIF (Vertically or Horizontally)</span><span class="combinator-description">Quickly flip a GIF animation horizontally or vertically.</span></div><div class="combinator-tool" data-url="reverse-gif"><span class="combinator-title">Reverse a GIF Animation</span><span class="combinator-description">Quickly reverse all frames in an animated GIF.</span></div><div class="combinator-tool" data-url="compress-gif"><span class="combinator-title">Compress a GIF Animation</span><span class="combinator-description">Quickly minify a GIF and make it smaller in size.</span></div><div class="combinator-tool" data-url="change-gif-background-color"><span class="combinator-title">Change GIF Background Color</span><span class="combinator-description">Quickly change the background color of an animated GIF.</span></div><div class="combinator-tool" data-url="change-gif-loop-count"><span class="combinator-title">Change GIF Loop Count</span><span class="combinator-description">Quickly change how many times a GIF gets repeated.</span></div><div class="combinator-tool" data-url="rotate-gif"><span class="combinator-title">Rotate a GIF Animation</span><span class="combinator-description">Quickly rotate a GIF animation by the given angle.</span></div><div class="combinator-tool" data-url="resize-gif"><span class="combinator-title">Resize a GIF Animation</span><span class="combinator-description">Quickly change the width and height of a static or animated GIF.</span></div><div class="combinator-tool" data-url="crop-gif"><span class="combinator-title">Crop a GIF Animation</span><span class="combinator-description">Quickly crop a region from a GIF animation.</span></div><div class="combinator-tool" data-url="censor-gif"><span class="combinator-title">Censor a GIF Animation</span><span class="combinator-description">Quickly redact sensitive information from a GIF.</span></div><div class="combinator-tool" data-url="pixelate-gif"><span class="combinator-title">Pixelate a GIF Animation</span><span class="combinator-description">Quickly pixelate any region in a GIF animation.</span></div><div class="combinator-tool" data-url="blur-gif"><span class="combinator-title">Blur a GIF Animation</span><span class="combinator-description">Quickly blur any region in a GIF animation.</span></div><div class="combinator-tool" data-url="sharpen-gif"><span class="combinator-title">Sharpen a GIF Animation</span><span class="combinator-description">Quickly sharpen any region in a GIF animation.</span></div><div class="combinator-tool" data-url="change-gif-brightness"><span class="combinator-title">Change GIF Brightness</span><span class="combinator-description">Quickly increase or decrease the brightness of a GIF.</span></div><div class="combinator-tool" data-url="change-gif-contrast"><span class="combinator-title">Change GIF Contrast</span><span class="combinator-description">Quickly increase or decrease the contrast of a GIF.</span></div><div class="combinator-tool" data-url="create-transparent-gif"><span class="combinator-title">Create a Transparent GIF</span><span class="combinator-description">Quickly make any color in a GIF transparent.</span></div><div class="combinator-tool" data-url="fill-transparent-gif"><span class="combinator-title">Fill a Transparent GIF</span><span class="combinator-description">Quickly fill transparent GIF regions with a solid color.</span></div><div class="combinator-tool" data-url="remove-gif-frames"><span class="combinator-title">Remove GIF Frames</span><span class="combinator-description">Quickly delete one or more frames from an animated GIF.</span></div><div class="combinator-tool" data-url="extract-gif-frames"><span class="combinator-title">Extract GIF Frames</span><span class="combinator-description">Quickly extract multiple frames from a GIF.</span></div><div class="combinator-tool" data-url="gif-viewer"><span class="combinator-title">GIF Viewer</span><span class="combinator-description">Quickly preview a GIF animation at any framerate (fast or slow).</span></div><div class="combinator-tool" data-url="randomize-gif-frames"><span class="combinator-title">Randomize GIF Frames</span><span class="combinator-description">Quickly shuffle frames of a GIF animation.</span></div><div class="combinator-tool" data-url="zoom-gif"><span class="combinator-title">Zoom a GIF Animation</span><span class="combinator-description">Quickly increase the size of a GIF.</span></div><div class="combinator-tool" data-url="change-gif-duration"><span class="combinator-title">Change GIF Duration</span><span class="combinator-description">Quickly change the total playback time of a GIF.</span></div><div class="combinator-tool" data-url="add-gif-border"><span class="combinator-title">Add a Border to a GIF</span><span class="combinator-description">Quickly surround a GIF animation with a border.</span></div><div class="combinator-tool" data-url="remove-gif-border"><span class="combinator-title">Remove the Border from a GIF</span><span class="combinator-description">Quickly remove the border that surrounds a GIF animation.</span></div><div class="combinator-tool" data-url="add-gif-background"><span class="combinator-title">Add a Background to a GIF</span><span class="combinator-description">Quickly add a background to an animated GIF.</span></div><div class="combinator-tool" data-url="remove-gif-background"><span class="combinator-title">Remove the Background from a GIF</span><span class="combinator-description">Quickly remove the background from an animated GIF.</span></div><div class="combinator-tool" data-url="add-text-to-gif"><span class="combinator-title">Add Text to a GIF</span><span class="combinator-description">Quickly add any text (captions, subtitles) on an animated GIF.</span></div><div class="combinator-tool" data-url="add-timer-to-gif"><span class="combinator-title">Add a Timer to a GIF</span><span class="combinator-description">Quickly add a running time clock to a GIF animation.</span></div><div class="combinator-tool" data-url="add-frame-counter-to-gif"><span class="combinator-title">Add a Frame Counter to a GIF</span><span class="combinator-description">Quickly add a counter that shows frame numbers.</span></div><div class="combinator-tool" data-url="make-gif-corners-round"><span class="combinator-title">Make GIF Corners Round</span><span class="combinator-description">Quickly round the corners of a GIF animation.</span></div><div class="combinator-tool" data-url="convert-gif-to-grayscale"><span class="combinator-title">Convert a GIF to Grayscale</span><span class="combinator-description">Quickly remove colors from a GIF and leave only gray shades.</span></div><div class="combinator-tool" data-url="cut-gif"><span class="combinator-title">Cut a Fragment from a GIF</span><span class="combinator-description">Quickly cut a frame range or a time interval from a GIF.</span></div><div class="combinator-tool" data-url="make-gif-slower"><span class="combinator-title">Slow Down a GIF Animation</span><span class="combinator-description">Quickly decrease the framerate of a GIF animation.</span></div><div class="combinator-tool" data-url="make-gif-faster"><span class="combinator-title">Speed Up a GIF Animation</span><span class="combinator-description">Quickly increase the framerate of a GIF animation.</span></div><div class="combinator-tool" data-url="create-boomerang-gif"><span class="combinator-title">Create a Boomerang GIF</span><span class="combinator-description">Quickly make a GIF loop back and forth.</span></div><div class="combinator-tool" data-url="add-white-noise-to-gif"><span class="combinator-title">Add White Noise to a GIF</span><span class="combinator-description">Quickly draw random pixels on an animated GIF.</span></div><div class="combinator-tool" data-url="optimize-gif"><span class="combinator-title">Optimize a GIF Animation</span><span class="combinator-description">Quickly optimize a GIF animation to use less memory.</span></div><div class="combinator-tool" data-url="analyze-gif"><span class="combinator-title">Analyze a GIF Animation</span><span class="combinator-description">Quickly print low-level details about a GIF and its frames.</span></div><div class="combinator-tool" data-url="pixelate-image"><span class="combinator-title">Pixelate an Image</span><span class="combinator-description">Quickly pixelate an area of an image.</span></div><div class="combinator-tool" data-url="blur-image"><span class="combinator-title">Blur an Image</span><span class="combinator-description">Quickly blur an area of an image.</span></div><div class="combinator-tool" data-url="sharpen-image"><span class="combinator-title">Sharpen an Image</span><span class="combinator-description">Quickly sharpen an area of an image.</span></div><div class="combinator-tool" data-url="rotate-image"><span class="combinator-title">Rotate an Image</span><span class="combinator-description">Quickly rotate any image by arbitrary angle.</span></div><div class="combinator-tool" data-url="resize-image"><span class="combinator-title">Resize an Image</span><span class="combinator-description">Quickly resize any image to any size.</span></div><div class="combinator-tool" data-url="crop-image"><span class="combinator-title">Crop an Image</span><span class="combinator-description">Quickly crop any image.</span></div><div class="combinator-tool" data-url="grayscale-image"><span class="combinator-title">Convert an Image to Grayscale</span><span class="combinator-description">Quickly convert a color image to a grayscale image.</span></div><div class="combinator-tool" data-url="duplicate-image"><span class="combinator-title">Duplicate an Image</span><span class="combinator-description">Quickly make multiple copies of an image.</span></div><div class="combinator-tool" data-url="flip-image-horizontally"><span class="combinator-title">Flip an Image Horizontally</span><span class="combinator-description">Quickly flip an image horizontally.</span></div><div class="combinator-tool" data-url="flip-image-vertically"><span class="combinator-title">Flip an Image Vertically</span><span class="combinator-description">Quickly flip an image vertically.</span></div><div class="combinator-tool" data-url="add-text-to-image"><span class="combinator-title">Add Text to an Image</span><span class="combinator-description">Quickly add text to any image.</span></div><div class="combinator-tool" data-url="create-transparent-image"><span class="combinator-title">Make an Image Transparent</span><span class="combinator-description">Quickly convert any color in an image to transparent.</span></div><div class="combinator-tool" data-url="change-image-quality"><span class="combinator-title">Change Image Quality</span><span class="combinator-description">Quickly change the visual quality of any image.</span></div><div class="combinator-tool" data-url="png-to-jpg-converter"><span class="combinator-title">PNG to JPG Converter</span><span class="combinator-description">Quickly convert a PNG image to a JPEG image.</span></div><div class="combinator-tool" data-url="jpg-to-png-converter"><span class="combinator-title">JPG to PNG Converter</span><span class="combinator-description">Quickly convert a JPEG image to a PNG image.</span></div><div class="combinator-tool" data-url="png-to-gif-converter"><span class="combinator-title">PNG to GIF Converter</span><span class="combinator-description">Quickly convert a PNG image to a GIF image.</span></div><div class="combinator-tool" data-url="gif-to-png-converter"><span class="combinator-title">GIF to PNG Converter</span><span class="combinator-description">Quickly convert a GIF image to a PNG image.</span></div><div class="combinator-tool" data-url="png-to-bitmap-converter"><span class="combinator-title">PNG to Bitmap Converter</span><span class="combinator-description">Quickly convert a PNG image to a BMP image.</span></div><div class="combinator-tool" data-url="bitmap-to-png-converter"><span class="combinator-title">Bitmap to PNG Converter</span><span class="combinator-description">Quickly convert a BMP image to a PNG image.</span></div><div class="combinator-tool" data-url="base64-encode-png"><span class="combinator-title">Base64-encode PNG</span><span class="combinator-description">Quickly base64-encode a PNG image.</span></div><div class="combinator-tool" data-url="convert-bmp-to-gif"><span class="combinator-title">Convert BMP to GIF</span><span class="combinator-description">Quickly convert a BMP image to a GIF image.</span></div><div class="combinator-tool" data-url="convert-gif-to-bmp"><span class="combinator-title">Convert GIF to BMP</span><span class="combinator-description">Quickly convert a GIF image to a BMP image.</span></div><div class="combinator-tool" data-url="jpeg-to-bitmap-converter"><span class="combinator-title">JPEG to Bitmap Converter</span><span class="combinator-description">Quickly convert a JPEG image to a bitmap image.</span></div><div class="combinator-tool" data-url="bitmap-to-jpeg-converter"><span class="combinator-title">Bitmap to JPEG Converter</span><span class="combinator-description">Quickly convert a bitmap image to a JPEG image.</span></div><div class="combinator-tool" data-url="convert-bmp-to-base64"><span class="combinator-title">Convert BMP to Base64</span><span class="combinator-description">Quickly convert a bitmap image to base64 encoding.</span></div><div class="combinator-tool" data-url="jpeg-to-gif-converter"><span class="combinator-title">JPEG to GIF Converter</span><span class="combinator-description">Quickly convert a JPEG image to a single-frame GIF image.</span></div><div class="combinator-tool" data-url="gif-to-jpeg-converter"><span class="combinator-title">GIF to JPEG Converter</span><span class="combinator-description">Quickly convert an animated GIF to a JPEG image.</span></div><div class="combinator-tool" data-url="convert-gif-to-base64"><span class="combinator-title">Convert GIF to Base64</span><span class="combinator-description">Quickly convert a GIF to base64 encoding.</span></div><div class="combinator-tool" data-url="capture-gif-frames"><span class="combinator-title">Capture GIF Frames</span><span class="combinator-description">Quickly view and extract frames from GIF animations.</span></div><div class="combinator-tool" data-url="gif-player"><span class="combinator-title">GIF Player</span><span class="combinator-description">Quickly play a GIF animation frame by frame.</span></div><div class="combinator-tool" data-url="base64-encode-jpg"><span class="combinator-title">Base64-encode JPG</span><span class="combinator-description">Quickly base64-encode a JPEG image.</span></div><div class="combinator-tool" data-url="recompress-jpg"><span class="combinator-title">Recompress JPG</span><span class="combinator-description">Quickly change the compression level of a JPG image.</span></div><div class="combinator-tool" data-url="convert-image-to-base64"><span class="combinator-title">Convert Image to Base64</span><span class="combinator-description">Quickly convert an image to base64 encoding.</span></div><div class="combinator-tool" data-url="convert-image-to-data-uri"><span class="combinator-title">Convert Image to Data URI</span><span class="combinator-description">Quickly convert an image to a Data URL.</span></div><div class="combinator-tool" data-url="add-image-border"><span class="combinator-title">Add a Border to an Image</span><span class="combinator-description">Quickly add a border around an image.</span></div><div class="combinator-tool" data-url="round-image-corners"><span class="combinator-title">Round Image Corners</span><span class="combinator-description">Quickly make corners of any image rounded.</span></div><div class="combinator-tool" data-url="change-jpg-quality"><span class="combinator-title">Change the Quality of a JPG</span><span class="combinator-description">Quickly change the quality of a JPG graphics file.</span></div><div class="combinator-tool" data-url="add-jpg-border"><span class="combinator-title">Add a Border Around a JPG</span><span class="combinator-description">Quickly add a border to a JPEG photo.</span></div><div class="combinator-tool" data-url="make-jpg-corners-round"><span class="combinator-title">Round JPG Corners</span><span class="combinator-description">Quickly round corners of a JPEG image.</span></div><div class="combinator-tool" data-url="make-jpg-transparent"><span class="combinator-title">Transparent JPG/JPEG Creator</span><span class="combinator-description">Quickly make any color in a JPG or JPEG transparent.</span></div><div class="combinator-tool" data-url="replace-jpg-colors"><span class="combinator-title">Replace JPG/JPEG Colors</span><span class="combinator-description">Quickly change colors in a JPG/JPEG photo.</span></div><div class="combinator-tool" data-url="compress-jpg"><span class="combinator-title">Compress a JPG</span><span class="combinator-description">Quickly reduce the size of a JPEG file by compressing it.</span></div><div class="combinator-tool" data-url="convert-jpg-to-webp"><span class="combinator-title">Convert JPG to WebP</span><span class="combinator-description">Quickly convert JPG images to WebP images.</span></div><div class="combinator-tool" data-url="convert-webp-to-jpg"><span class="combinator-title">Convert WebP to JPG</span><span class="combinator-description">Quickly convert WebP images to JPG images.</span></div><div class="combinator-tool" data-url="convert-jpg-to-gif"><span class="combinator-title">Convert JPG to GIF</span><span class="combinator-description">Quickly convert a JPG photo to a GIF photo.</span></div><div class="combinator-tool" data-url="convert-gif-to-jpg"><span class="combinator-title">Convert GIF to JPG</span><span class="combinator-description">Quickly convert a GIF picture to a JPG picture.</span></div><div class="combinator-tool" data-url="convert-jpg-to-bmp"><span class="combinator-title">Convert JPG to BMP</span><span class="combinator-description">Quickly convert a JPG file to a BMP file.</span></div><div class="combinator-tool" data-url="convert-bmp-to-jpg"><span class="combinator-title">Convert BMP to JPG</span><span class="combinator-description">Quickly convert a BMP photo to a JPG photo.</span></div><div class="combinator-tool" data-url="convert-jpg-to-jpeg"><span class="combinator-title">Convert JPG to JPEG</span><span class="combinator-description">Quickly convert a JPG photo to a JPEG photo.</span></div><div class="combinator-tool" data-url="convert-jpeg-to-jpg"><span class="combinator-title">Convert JPEG to JPG</span><span class="combinator-description">Quickly convert a JPEG graphic file to a JPG graphic file.</span></div><div class="combinator-tool" data-url="convert-jpg-to-png"><span class="combinator-title">Convert JPEG to PNG</span><span class="combinator-description">Quickly convert a JPG picture to a PNG picture.</span></div><div class="combinator-tool" data-url="convert-png-to-jpg"><span class="combinator-title">Convert PNG to JPEG</span><span class="combinator-description">Quickly convert a PNG picture to a JPG picture.</span></div><div class="combinator-tool" data-url="convert-jpg-to-base64"><span class="combinator-title">Convert JPEG to Base64</span><span class="combinator-description">Quickly convert a JPG picture to base64 encoding.</span></div><div class="combinator-tool" data-url="crop-jpg"><span class="combinator-title">Crop a JPG Picture</span><span class="combinator-description">Quickly crop a region of a JPEG picture.</span></div><div class="combinator-tool" data-url="resize-jpg"><span class="combinator-title">Resize a JPG/JPEG Picture</span><span class="combinator-description">Quickly resize a JPG/JPEG picture to a new size.</span></div><div class="combinator-tool" data-url="rotate-jpg"><span class="combinator-title">Rotate a JPG Picture</span><span class="combinator-description">Quickly rotate a JPEG image by any angle.</span></div><div class="combinator-tool" data-url="flip-jpg-vertically"><span class="combinator-title">Flip JPG Vertically</span><span class="combinator-description">Quickly flip a JPEG photo vertically.</span></div><div class="combinator-tool" data-url="flip-jpg-horizontally"><span class="combinator-title">Flip JPG Horizontally</span><span class="combinator-description">Quickly flip a JPEG photo horizontally.</span></div><div class="combinator-tool" data-url="duplicate-jpg"><span class="combinator-title">Duplicate a JPG Picture</span><span class="combinator-description">Quickly create multiple copies a JPEG pic.</span></div><div class="combinator-tool" data-url="convert-jpg-to-data-uri"><span class="combinator-title">Convert JPG to Data URI</span><span class="combinator-description">Quickly convert a JPEG image to a Data URL.</span></div><div class="combinator-tool" data-url="add-text-to-jpg"><span class="combinator-title">Add Text to a JPG Picture</span><span class="combinator-description">Quickly add text to a JPG/JPEG image.</span></div><div class="combinator-tool" data-url="convert-jpg-to-grayscale"><span class="combinator-title">Convert JPG to Grayscale</span><span class="combinator-description">Quickly turn a JPEG picture grayscale.</span></div><div class="combinator-tool" data-url="blur-jpg"><span class="combinator-title">Blur a JPG Picture</span><span class="combinator-description">Quickly blur an area of a JPEG photo.</span></div><div class="combinator-tool" data-url="sharpen-jpg"><span class="combinator-title">Sharpen a JPG Picture</span><span class="combinator-description">Quickly sharpen an area in a JPEG picture.</span></div><div class="combinator-tool" data-url="pixelate-jpg"><span class="combinator-title">Pixelate a JPG Picture</span><span class="combinator-description">Quickly pixelate an area of a JPEG photo.</span></div><div class="combinator-tool" data-url="upsize-jpg"><span class="combinator-title">Upsize a JPG/JPEG Picture</span><span class="combinator-description">Quickly increase the dimensions of a JPG/JPEG picture.</span></div><div class="combinator-tool" data-url="downsize-jpg"><span class="combinator-title">Downsize a JPG/JPEG Picture</span><span class="combinator-description">Quickly decrease the dimensions of a JPG/JPEG picture.</span></div><div class="combinator-tool" data-url="optimize-jpg"><span class="combinator-title">Optimize a JPG/JPEG Picture</span><span class="combinator-description">Quickly optimize a JPG/JPEG to get the best quality/size ratio.</span></div><div class="combinator-tool" data-url="add-jpg-artifacts"><span class="combinator-title">Add JPG/JPEG Artifacts</span><span class="combinator-description">Quickly add artefacts to a JPG/JPEG picture.</span></div><div class="combinator-tool" data-url="remove-jpg-artifacts"><span class="combinator-title">Remove JPG/JPEG Artifacts</span><span class="combinator-description">Quickly remove artefact distortions from a JPG/JPEG picture.</span></div><div class="combinator-tool" data-url="create-transparent-png"><span class="combinator-title">Make a PNG Transparent</span><span class="combinator-description">Quickly replace any color in a PNG file with transparency.</span></div><div class="combinator-tool" data-url="change-png-color"><span class="combinator-title">Change Colors in a PNG</span><span class="combinator-description">Quickly swap colors in a PNG image.</span></div><div class="combinator-tool" data-url="change-png-color-tone"><span class="combinator-title">Change PNG Color Tone</span><span class="combinator-description">Quickly replace all colors in a PNG with a single color tone.</span></div><div class="combinator-tool" data-url="add-noise-to-png"><span class="combinator-title">Add Noise to a PNG</span><span class="combinator-description">Quickly add noisy pixels (white noise) to your PNG image.</span></div><div class="combinator-tool" data-url="compress-png"><span class="combinator-title">Compress a PNG</span><span class="combinator-description">Quickly make a PNG image smaller and reduce its size.</span></div><div class="combinator-tool" data-url="convert-webp-to-png"><span class="combinator-title">Convert WebP to PNG</span><span class="combinator-description">Quickly convert a WebP image to a PNG image.</span></div><div class="combinator-tool" data-url="convert-png-to-webp"><span class="combinator-title">Convert PNG to WebP</span><span class="combinator-description">Quickly convert a PNG image to a WebP image.</span></div><div class="combinator-tool" data-url="extract-png-color-palette"><span class="combinator-title">Extract PNG Color Palette</span><span class="combinator-description">Quickly find the most popular colors in a PNG.</span></div><div class="combinator-tool" data-url="pick-png-color"><span class="combinator-title">Pick a PNG Color</span><span class="combinator-description">Quickly use the eyedropper to find a pixel's color in a PNG.</span></div><div class="combinator-tool" data-url="change-png-quality"><span class="combinator-title">Change PNG Quality</span><span class="combinator-description">Quickly increase or decrease the quality of PNG images.</span></div><div class="combinator-tool" data-url="resize-png"><span class="combinator-title">Resize a PNG</span><span class="combinator-description">Quickly resize a PNG image to any size.</span></div><div class="combinator-tool" data-url="rotate-png"><span class="combinator-title">Rotate a PNG</span><span class="combinator-description">Quickly rotate a PNG image by an arbitrary angle.</span></div><div class="combinator-tool" data-url="crop-png"><span class="combinator-title">Crop a PNG</span><span class="combinator-description">Quickly crop a PNG image.</span></div><div class="combinator-tool" data-url="fit-png-in-rectangle"><span class="combinator-title">Fit a PNG in a Rectangle</span><span class="combinator-description">Quickly make a PNG fit perfectly in an arbitrary size rectangle.</span></div><div class="combinator-tool" data-url="add-text-to-png"><span class="combinator-title">Add Text to a PNG Image</span><span class="combinator-description">Quickly add text (label, caption) to a PNG picture.</span></div><div class="combinator-tool" data-url="add-png-watermark"><span class="combinator-title">Add a Watermark to a PNG</span><span class="combinator-description">Quickly superimpose a message or a signature on a PNG.</span></div><div class="combinator-tool" data-url="add-png-border"><span class="combinator-title">Add a Border to PNG</span><span class="combinator-description">Quickly add a border around a PNG.</span></div><div class="combinator-tool" data-url="remove-png-border"><span class="combinator-title">Remove a Border from PNG</span><span class="combinator-description">Quickly remove a border or decoration around a PNG.</span></div><div class="combinator-tool" data-url="add-png-background"><span class="combinator-title">Add PNG Background</span><span class="combinator-description">Quickly add a background to a PNG image.</span></div><div class="combinator-tool" data-url="remove-png-background"><span class="combinator-title">Remove PNG Background</span><span class="combinator-description">Quickly remove the background from a PNG image.</span></div><div class="combinator-tool" data-url="refine-png-edges"><span class="combinator-title">Refine PNG Edges</span><span class="combinator-description">Quickly smooth the edges of PNG images.</span></div><div class="combinator-tool" data-url="flip-png-horizontally"><span class="combinator-title">Flip a PNG Horizontally</span><span class="combinator-description">Quickly flip a PNG picture horizontally.</span></div><div class="combinator-tool" data-url="flip-png-vertically"><span class="combinator-title">Flip a PNG Vertically</span><span class="combinator-description">Quickly flip a PNG picture vertically.</span></div><div class="combinator-tool" data-url="mirror-png"><span class="combinator-title">Mirror a PNG</span><span class="combinator-description">Quickly create a mirror version of the given PNG.</span></div><div class="combinator-tool" data-url="duplicate-png"><span class="combinator-title">Duplicate a PNG</span><span class="combinator-description">Quickly make copies of a PNG pic.</span></div><div class="combinator-tool" data-url="pixelate-png"><span class="combinator-title">Pixelate a PNG</span><span class="combinator-description">Quickly pixelate an area of a PNG image.</span></div><div class="combinator-tool" data-url="blur-png"><span class="combinator-title">Blur a PNG</span><span class="combinator-description">Quickly blur an area of a PNG image.</span></div><div class="combinator-tool" data-url="censor-png"><span class="combinator-title">Censor a PNG</span><span class="combinator-description">Quickly hide an area in a PNG image.</span></div><div class="combinator-tool" data-url="sharpen-png"><span class="combinator-title">Sharpen a PNG</span><span class="combinator-description">Quickly sharpen an area of a PNG image.</span></div><div class="combinator-tool" data-url="change-png-brightness"><span class="combinator-title">Change PNG Brightness</span><span class="combinator-description">Quickly change the brightness of a PNG picture.</span></div><div class="combinator-tool" data-url="change-png-contrast"><span class="combinator-title">Change PNG Contrast</span><span class="combinator-description">Quickly change the contrast of a PNG picture.</span></div><div class="combinator-tool" data-url="convert-png-to-grayscale"><span class="combinator-title">Convert PNG to Grayscale</span><span class="combinator-description">Quickly convert a color PNG image to a grayscale PNG.</span></div><div class="combinator-tool" data-url="add-sepia-tone-to-png"><span class="combinator-title">Add a Sepia Tone to PNG</span><span class="combinator-description">Quickly apply a sepia effect to a PNG photo.</span></div><div class="combinator-tool" data-url="invert-png-colors"><span class="combinator-title">Invert PNG Colors</span><span class="combinator-description">Quickly invert pixel colors in a PNG photo.</span></div><div class="combinator-tool" data-url="round-png-corners"><span class="combinator-title">Round PNG Corners</span><span class="combinator-description">Quickly round the corners of a PNG picture.</span></div><div class="combinator-tool" data-url="fill-transparent-png-pixels"><span class="combinator-title">Fill Transparent PNG Regions</span><span class="combinator-description">Quickly replace transparency in a PNG file with a solid color.</span></div><div class="combinator-tool" data-url="convert-png-to-bmp"><span class="combinator-title">Convert PNG to BMP</span><span class="combinator-description">Quickly convert a PNG picture to a bitmap file.</span></div><div class="combinator-tool" data-url="convert-bmp-to-png"><span class="combinator-title">Convert BMP to PNG</span><span class="combinator-description">Quickly convert a bitmap image file to a PNG picture.</span></div><div class="combinator-tool" data-url="convert-ico-to-png"><span class="combinator-title">Convert ICO to PNG</span><span class="combinator-description">Quickly convert an ICO (icon) file to a PNG file.</span></div><div class="combinator-tool" data-url="convert-png-to-data-uri"><span class="combinator-title">Convert PNG to Data URI</span><span class="combinator-description">Quickly convert a PNG image to a Data URL.</span></div><div class="combinator-tool" data-url="optimize-png"><span class="combinator-title">Optimize a PNG</span><span class="combinator-description">Quickly optimize the quality and file size of a PNG photo.</span></div><div class="combinator-tool" data-url="create-symmetric-png"><span class="combinator-title">Create a Symmetric PNG</span><span class="combinator-description">Quickly make a symmetric copy of the given PNG.</span></div><div class="combinator-tool" data-url="add-artifacts-to-png"><span class="combinator-title">Add JPG and WebP Artifacts to a PNG</span><span class="combinator-description">Quickly add JPG and WebP artifacts to a PNG photo.</span></div></div>
+                                </div>
+                            </div>
+                            <div class="badge">
+                                <div class="badge-icon"></div>
+                                <div class="badge-body">
+                                    <div class="badge-title">Can't convert.</div>
+                                    <div class="badge-message">An error has occured.</div>
+                                </div>
+                            </div>
+                                                                                                <div class="preview-scrollable">
+                                        <canvas class="preview not-empty" data-scroll="enabled" width="478" height="306" data-scroll-x="-240" data-scroll-y="-84" data-prev-x="808" data-prev-y="476"></canvas>
+                                        <canvas class="background" width="478" height="306"></canvas>
+                                    </div>
+                                                                <canvas class="data not-empty" width="958" height="475"></canvas>
+                                                    </div>
+                        <div class="side-widgets toggled">
+                            <div class="side-widgets-wrapper" style="transform: rotateX(-90deg) translateY(50%) translateZ(22px);">
+                                                                    <div data-toggle="toggle-chain" class="widget widget-chain">
+                                        Chain with...
+                                    </div>
+                                    <div data-toggle="toggle-remove-chain" class="widget widget-remove-chain">
+                                        Remove chain
+                                    </div>
+                                                                <div data-toggle="toggle-save-as" class="widget">
+                                    Save as...
+                                </div>
+                                <div class="widget widget-copy">
+                                    Copy to clipboard
+                                </div>
+                            </div>
+                            <div class="side-widgets-toggle" style="transform: rotateX(0deg) translateY(0px) translateZ(0px);">
+                                <div class="toggle-wrapper">
+                                    <div class="widget-toggle toggle-save-as">
+                                        <div data-hides-toggle="" class="widget widget-save-as">
+                                            Download
+                                        </div>
+                                        <div class="widget widget-pastebin is-disabled" title="Coming soon!">
+                                            Export to Pastebin
+                                        </div>
+                                    </div>
+                                    <div class="widget-toggle toggle-remove-chain">
+                                        <div class="widget widget-remove-chain-wrap">
+                                            <span class="remove-chain-text">
+                                                Remove <span class="remove-how-many">no tools</span>?
+                                            </span>
+                                            <div class="remove-chain-yes">
+                                                <svg class="svg-icon"><use xlink:href="#icon-check"></use></svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="widget-toggle toggle-unchainable">
+                                        <div class="widget">
+                                            This tool cannot be chained.
+                                        </div>
+                                    </div>
+                                    <div class="widget-toggle toggle-chain toggle-active">
+                                        <div class="widget widget-chain-search state-search">
+                                            <svg class="svg-icon icon_wait"><use xlink:href="#icon-wait"></use></svg>
+                                            <svg class="svg-icon icon_search"><use xlink:href="#icon-search"></use></svg>
+                                            <svg class="svg-icon icon_error"><use xlink:href="#icon-error"></use></svg>
+                                            <div class="chain-search-wrapper">
+                                                <input placeholder="Search all tools..." class="chain-search">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="toggle-hide">
+                                        <svg class="svg-icon"><use xlink:href="#icon-close"></use></svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+                            <div class="sides-options-wrapper">
+                <label class="caption">Png resizer options</label>
+                <div data-autosave="" class="converter-options">
+                    
+    <div class="option-group">
+        <span class="option-group-legend">New PNG Dimensions</span>
+
+                
+        
+            
+                                                    
+            
+                
+                                <div class="option-row is-compact compact-2" title="Option code: width">
+
+            
+                        
+            
+                                    <input id="option-width-f03d2d89" required="" name="option-group-f03d2d89-0" data-index="width" class="input-option" type="text" placeholder="Width" value="">
+                                    <label for="option-width-f03d2d89">Width</label>
+                                    <span class="option-details">New width.</span>
+                
+                </div>
+        
+            
+                                                    
+            
+                                    
+                
+                                <div class="option-row is-compact compact-2" title="Option code: height">
+
+            
+                        
+            
+                                    <input id="option-height-f03d2d89" required="" name="option-group-f03d2d89-0" data-index="height" class="input-option" type="text" placeholder="Height" value="">
+                                    <label for="option-height-f03d2d89">Height</label>
+                                    <span class="option-details">New height.</span>
+                
+                </div>
+        
+                            <div class="option-row is-comment">
+                    <label></label>
+                    <span class="option-details">If the new PNG width is empty,
+the original width is used.
+If the new PNG height is empty,
+the original height is used.</span>
+                </div>
+                
+    </div>
+    <div class="option-group">
+        <span class="option-group-legend">PNG Aspect Ratio</span>
+
+                
+        
+            
+                        
+                                            <div class="option-row" title="Option code: ratio">
+            
+                        
+            
+                                    <input id="option-ratio-f03d2d89" required="" name="option-group-f03d2d89-1" data-index="ratio" class="input-option" checked="" type="checkbox">
+                                    <label for="option-ratio-f03d2d89">Preserve Ratio</label>
+                                    <span class="option-details">Check this to keep width
+and height proportional.</span>
+                
+                </div>
+        
+    </div>
+
+
+                </div>
+            </div>
+            </div>
+</div>
+
+                
+            </div>
+
+            <div class="section this-tool">
+                <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-help"></use></svg></div>
+                <div class="body">
+                    <div class="body-title">
+                        <span class="primary">Png resizer tool</span>
+                        <span class="secondary">What is a png resizer?</span>
+                    </div>
+                    <div class="body-content">
+                        This tool resizes PNG images to any size. It only has three configuration options – the new width and height of the image, and the ratio preservation option (also known as aspect ratio lock). If this option is on, then resizing one of the dimensions will proportionally adjust the other dimension so that the width/height ratio stays constant. For example, if the input image is 800×600px and you set the new width to 400px, then the height will be automatically changed to 300px (because 800/600 is 1.33 and 400/300 is also 1.33). You can also resize the PNG using your mouse interactively by dragging it by the edges. Png-abulous!
+                    </div>
+                </div>
+            </div>
+
+            
+                            <div class="section tool-examples">
+                    <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-book"></use></svg></div>
+                    <div class="body">
+
+                        <div class="body-title">
+                          <span class="primary">Png resizer examples</span>
+                          <span class="secondary">Click to use</span>
+                        </div>
+                        <div class="examples cards examples-primary">
+                            
+                            
+                            <div class="card">
+                                <div class="block">
+                                    <div class="title">Resize a PNG Picture <div class="open-in-new"><svg class="svg-icon"><use xlink:href="#icon-open-in-new"></use></svg></div></div>
+                                    <div class="body">
+                                        <div class="description">This example resizes a PNG pic of purple flowers from 600x400 pixels to 200x133 pixels. It also locks the width and height aspect ratio so that if you resize it further, the width:height ratio will stay the same.</div>
+
+                                                                                                                        
+                                        <div class="wrapper">
+                                            <div class="sample big">
+                                                                                                    <div class="image-sample input-sample" data-src="/images/examples-onlinepngtools/purple-flowers.png">
+                                                        <img data-src="/images/examples-onlinepngtools/purple-flowers.png" alt="This example resizes a PNG pic of purple flowers from 600x400 pixels to 200x133 pixels. It also locks the width and height aspect ratio so that if you resize it further, the width:height ratio will stay the same." class=" lazyloaded" src="./faclt_files/purple-flowers.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/purple-flowers.png" alt="This example resizes a PNG pic of purple flowers from 600x400 pixels to 200x133 pixels. It also locks the width and height aspect ratio so that if you resize it further, the width:height ratio will stay the same.">
+                                                        </noscript>
+                                                    </div>
+                                                
+                                                                                                    <div class="image-sample output-sample">
+                                                        <img data-src="/images/examples-onlinepngtools/purple-flowers-resized.png" alt="This example resizes a PNG pic of purple flowers from 600x400 pixels to 200x133 pixels. It also locks the width and height aspect ratio so that if you resize it further, the width:height ratio will stay the same." class=" lazyloaded" src="./faclt_files/purple-flowers-resized.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/purple-flowers-resized.png" alt="This example resizes a PNG pic of purple flowers from 600x400 pixels to 200x133 pixels. It also locks the width and height aspect ratio so that if you resize it further, the width:height ratio will stay the same.">
+                                                        </noscript>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+
+                                                                                    <div class="option-group">
+                                                <b>Required options</b>
+                                                <div class="example-required-options-text">These options will be used automatically if you select this example.</div>
+                                                
+
+
+            
+            
+                        
+                                                    
+            
+                
+                                <div class="option-row is-compact compact-2" title="Option code: width">
+
+            
+            
+                                    <input required="" disabled="" data-index="width" placeholder="Width" class="input-option" type="text" value="200">
+                                    <label>Width</label>
+                                    <span class="option-details">New width.</span>
+                
+                </div>
+                    
+            
+                        
+                                                    
+            
+                                    
+                
+                                <div class="option-row is-compact compact-2" title="Option code: height">
+
+            
+            
+                                    <input required="" disabled="" data-index="height" placeholder="Height" class="input-option" type="text" value="133">
+                                    <label>Height</label>
+                                    <span class="option-details">New height.</span>
+                
+                </div>
+                        
+            
+            
+                        
+                        
+                                            <div class="option-row" title="Option code: ratio">
+            
+            
+                                    <input required="" disabled="" data-index="ratio" class="input-option" checked="" type="checkbox">
+                                    <label>Preserve Ratio</label>
+                                    <span class="option-details">Check this to keep width
+and height proportional.</span>
+                
+                </div>
+            
+
+
+                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="card">
+                                <div class="block">
+                                    <div class="title">Squeeze a Bodybuilder <div class="open-in-new"><svg class="svg-icon"><use xlink:href="#icon-open-in-new"></use></svg></div></div>
+                                    <div class="body">
+                                        <div class="description">In this example, we squish a bodybuilder from massive 400 pixels in width to weeny 50 pixels. So long gains.</div>
+
+                                                                                                                        
+                                        <div class="wrapper">
+                                            <div class="sample big">
+                                                                                                    <div class="image-sample input-sample" data-src="/images/examples-onlinepngtools/body-builder.png">
+                                                        <img data-src="/images/examples-onlinepngtools/body-builder.png" alt="In this example, we squish a bodybuilder from massive 400 pixels in width to weeny 50 pixels. So long gains." class=" lazyloaded" src="./faclt_files/body-builder.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/body-builder.png" alt="In this example, we squish a bodybuilder from massive 400 pixels in width to weeny 50 pixels. So long gains.">
+                                                        </noscript>
+                                                    </div>
+                                                
+                                                                                                    <div class="image-sample output-sample">
+                                                        <img data-src="/images/examples-onlinepngtools/body-builder-resized.png" alt="In this example, we squish a bodybuilder from massive 400 pixels in width to weeny 50 pixels. So long gains." class=" lazyloaded" src="./faclt_files/body-builder-resized.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/body-builder-resized.png" alt="In this example, we squish a bodybuilder from massive 400 pixels in width to weeny 50 pixels. So long gains.">
+                                                        </noscript>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+
+                                                                                    <div class="option-group">
+                                                <b>Required options</b>
+                                                <div class="example-required-options-text">These options will be used automatically if you select this example.</div>
+                                                
+
+
+            
+            
+                        
+                                                    
+            
+                
+                                <div class="option-row is-compact compact-2" title="Option code: width">
+
+            
+            
+                                    <input required="" disabled="" data-index="width" placeholder="Width" class="input-option" type="text" value="50">
+                                    <label>Width</label>
+                                    <span class="option-details">New width.</span>
+                
+                </div>
+                    
+            
+                        
+                                                    
+            
+                                    
+                
+                                <div class="option-row is-compact compact-2" title="Option code: height">
+
+            
+            
+                                    <input required="" disabled="" data-index="height" placeholder="Height" class="input-option" type="text" value="200">
+                                    <label>Height</label>
+                                    <span class="option-details">New height.</span>
+                
+                </div>
+                        
+            
+            
+                        
+                        
+                                            <div class="option-row" title="Option code: ratio">
+            
+            
+                                    <input required="" disabled="" data-index="ratio" class="input-option" type="checkbox">
+                                    <label>Preserve Ratio</label>
+                                    <span class="option-details">Check this to keep width
+and height proportional.</span>
+                
+                </div>
+            
+
+
+                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="card">
+                                <div class="block">
+                                    <div class="title">Make a Giraffe's Neck Shorter <div class="open-in-new"><svg class="svg-icon"><use xlink:href="#icon-open-in-new"></use></svg></div></div>
+                                    <div class="body">
+                                        <div class="description">This example resizes a PNG illustration of a giraffe from Charles Dessalines D' Orbigny's famous illustration book "Dictionnaire Universel D'histoire Naturelle". By resizing the PNG's height from 440px to 200px, the giraffe's neck becomes much shorter.</div>
+
+                                                                                                                        
+                                        <div class="wrapper">
+                                            <div class="sample big">
+                                                                                                    <div class="image-sample input-sample" data-src="/images/examples-onlinepngtools/giraffe-illustration.png">
+                                                        <img data-src="/images/examples-onlinepngtools/giraffe-illustration.png" alt="This example resizes a PNG illustration of a giraffe from Charles Dessalines D&#39; Orbigny&#39;s famous illustration book &quot;Dictionnaire Universel D&#39;histoire Naturelle&quot;. By resizing the PNG&#39;s height from 440px to 200px, the giraffe&#39;s neck becomes much shorter." class=" lazyloaded" src="./faclt_files/giraffe-illustration.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/giraffe-illustration.png" alt="This example resizes a PNG illustration of a giraffe from Charles Dessalines D&#039; Orbigny&#039;s famous illustration book &quot;Dictionnaire Universel D&#039;histoire Naturelle&quot;. By resizing the PNG&#039;s height from 440px to 200px, the giraffe&#039;s neck becomes much shorter.">
+                                                        </noscript>
+                                                    </div>
+                                                
+                                                                                                    <div class="image-sample output-sample">
+                                                        <img data-src="/images/examples-onlinepngtools/giraffe-illustration-shorter.png" alt="This example resizes a PNG illustration of a giraffe from Charles Dessalines D&#39; Orbigny&#39;s famous illustration book &quot;Dictionnaire Universel D&#39;histoire Naturelle&quot;. By resizing the PNG&#39;s height from 440px to 200px, the giraffe&#39;s neck becomes much shorter." class=" lazyloaded" src="./faclt_files/giraffe-illustration-shorter.png">
+                                                        <noscript>
+                                                            <img src="/images/examples-onlinepngtools/giraffe-illustration-shorter.png" alt="This example resizes a PNG illustration of a giraffe from Charles Dessalines D&#039; Orbigny&#039;s famous illustration book &quot;Dictionnaire Universel D&#039;histoire Naturelle&quot;. By resizing the PNG&#039;s height from 440px to 200px, the giraffe&#039;s neck becomes much shorter.">
+                                                        </noscript>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+
+                                                                                    <div class="option-group">
+                                                <b>Required options</b>
+                                                <div class="example-required-options-text">These options will be used automatically if you select this example.</div>
+                                                
+
+
+            
+            
+                        
+                                                    
+            
+                
+                                <div class="option-row is-compact compact-2" title="Option code: width">
+
+            
+            
+                                    <input required="" disabled="" data-index="width" placeholder="Width" class="input-option" type="text" value="">
+                                    <label>Width</label>
+                                    <span class="option-details">New width.</span>
+                
+                </div>
+                    
+            
+                        
+                                                    
+            
+                                    
+                
+                                <div class="option-row is-compact compact-2" title="Option code: height">
+
+            
+            
+                                    <input required="" disabled="" data-index="height" placeholder="Height" class="input-option" type="text" value="200">
+                                    <label>Height</label>
+                                    <span class="option-details">New height.</span>
+                
+                </div>
+                        
+            
+            
+                        
+                        
+                                            <div class="option-row" title="Option code: ratio">
+            
+            
+                                    <input required="" disabled="" data-index="ratio" class="input-option" type="checkbox">
+                                    <label>Preserve Ratio</label>
+                                    <span class="option-details">Check this to keep width
+and height proportional.</span>
+                
+                </div>
+            
+
+
+                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            
+            
+            
+            <div class="section all-tools">
+    <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-tools-list"></use></svg></div>
+    <span class="tool-matches-amount"></span>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">All png tools</span>
+            <span class="secondary"><input type="text" class="search" required="" placeholder="type to search!"><span class="cursor"></span></span>
+        </div>
+        <div class="tools cards equal-height">
+            <div class="tool-none-matches">
+                <div class="message">
+                    Didn't find the tool you were looking for? <span class="request-tool">Let us know</span> what tool we are missing and we'll build it!
+                </div>
+            </div>
+                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/create-transparent-png">Make a PNG Transparent</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly replace any color in a PNG file with transparency.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/change-png-color">Change Colors in a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly swap colors in a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/change-png-color-tone">Change PNG Color Tone</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly replace all colors in a PNG with a single color tone.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-noise-to-png">Add Noise to a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly add noisy pixels (white noise) to your PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/compress-png">Compress a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly make a PNG image smaller and reduce its size.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-jpg">Convert PNG to JPG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG graphics file to a JPEG graphics file.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-jpg-to-png">Convert JPG to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a JPEG graphics file to a PNG graphics file.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-webp-to-png">Convert WebP to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a WebP image to a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-webp">Convert PNG to WebP</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG image to a WebP image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-base64">Convert PNG to Base64</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG image to base64 encoding.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-base64-to-png">Convert Base64 to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a base64-encoded image to PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/extract-png-color-palette">Extract PNG Color Palette</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly find the most popular colors in a PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/pick-png-color">Pick a PNG Color</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly use the eyedropper to find a pixel's color in a PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/change-png-quality">Change PNG Quality</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly increase or decrease the quality of PNG images.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/resize-png">Resize a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly resize a PNG image to any size.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/rotate-png">Rotate a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly rotate a PNG image by an arbitrary angle.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/crop-png">Crop a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly crop a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/fit-png-in-rectangle">Fit a PNG in a Rectangle</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly make a PNG fit perfectly in an arbitrary size rectangle.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-text-to-png">Add Text to a PNG Image</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly add text (label, caption) to a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-png-watermark">Add a Watermark to a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly superimpose a message or a signature on a PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-png-border">Add a Border to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly add a border around a PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/remove-png-border">Remove a Border from PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly remove a border or decoration around a PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-png-background">Add PNG Background</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly add a background to a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/remove-png-background">Remove PNG Background</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly remove the background from a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/refine-png-edges">Refine PNG Edges</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly smooth the edges of PNG images.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/flip-png-horizontally">Flip a PNG Horizontally</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly flip a PNG picture horizontally.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/flip-png-vertically">Flip a PNG Vertically</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly flip a PNG picture vertically.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/mirror-png">Mirror a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly create a mirror version of the given PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/duplicate-png">Duplicate a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly make copies of a PNG pic.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/pixelate-png">Pixelate a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly pixelate an area of a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/blur-png">Blur a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly blur an area of a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/censor-png">Censor a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly hide an area in a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/sharpen-png">Sharpen a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly sharpen an area of a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/change-png-brightness">Change PNG Brightness</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly change the brightness of a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/change-png-contrast">Change PNG Contrast</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly change the contrast of a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-grayscale">Grayscale a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a color PNG image to a grayscale PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-sepia-tone-to-png">Add a Sepia Tone to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly apply a sepia effect to a PNG photo.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/invert-png-colors">Invert PNG Colors</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly invert pixel colors in a PNG photo.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/round-png-corners">Make PNG Corners Rounded</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly round the corners of a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/fill-transparent-png-pixels">Make a PNG Opaque</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly replace transparency in a PNG file with a solid color.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-gif">Convert PNG to GIF</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG graphics file to a single-frame GIF.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-gif-to-png">Convert GIF to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a GIF animation to a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-bmp">Convert PNG to BMP</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG picture to a bitmap file.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-bmp-to-png">Convert BMP to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a bitmap image file to a PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-ico-to-png">Convert ICO to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert an ICO (icon) file to a PNG file.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-png-to-data-uri">Convert PNG to Data URI</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a PNG image to a Data URL.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/convert-data-uri-to-png">Convert Data URI to PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly convert a Data URL to a PNG image.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/optimize-png">Optimize a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly optimize the quality and file size of a PNG photo.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/create-symmetric-png">Create a Symmetric PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly make a symmetric copy of the given PNG.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/generate-colorful-png">Generate a Colorful PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly create a single-color or multi-color PNG picture.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/create-emoji-png">Create a PNG From an Emoji</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly create a PNG from emojis and other Unicode symbols.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/add-artifacts-to-png">Add Artifacts to a PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly add JPG and WebP artifacts to a PNG photo.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/generate-1x1-png">Generate a 1x1 Pixel PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly create a single 1-by-1 pixel PNG file.</div>
+                          </div>
+                      </div>
+                  </div>
+                                                              <div class="card">
+                      <div class="block">
+                          <div class="title"><a href="https://onlinepngtools.com/generate-random-png">Generate a Random PNG</a> <div class="arrow"><svg class="svg-icon"><use xlink:href="#icon-chevron-right"></use></svg></div></div>
+                          <div class="body">
+                              <div class="description">Quickly generate random PNG pictures.</div>
+                          </div>
+                      </div>
+                  </div>
+                            
+        </div>
+    </div>
+</div>
+
+            <div class="section coming-soon">
+    <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-coming-soon"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Coming soon</span>
+            <span class="secondary">These png tools are on the way</span>
+        </div>
+        <div class="coming-soon-list cards equal-height">
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">PNG Editor</div>
+                        <div class="body">
+                            <div class="description">Edit a PNG in your browser.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to AVIF</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to an AV1 image (AVIF).</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert AVIF to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert an AV1 image (AVIF) to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to ICO</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to an ICO icon.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to TIFF</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a TIFF image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert TIFF to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a TIFF image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to PIK</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a PIK image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PIK to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a PIK image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to PPM</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a PPM image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PPM to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a PPM image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to BPG</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a BPG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert BPG to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a BPG image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to FLIF</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a FLIF image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert FLIF to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a FLIF image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to PDN</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a Paint.net file.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PDN to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a Paint.net file to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to PSD</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a Photoshop file.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PSD to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a Photoshop file to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to SVG</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to an SVG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert SVG to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert an SVG file to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to JFIF</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a JFIF image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert JFIF to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a JFIF image to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to RGB</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to raw RGB values.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert RGB to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert RGB values to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to RGBA</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to raw RGBA values.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert RGBA to PNG</div>
+                        <div class="body">
+                            <div class="description">Convert RGBA values to a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to Animated GIF</div>
+                        <div class="body">
+                            <div class="description">Convert multiple PNGs to a GIF animation.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert APNG to GIF</div>
+                        <div class="body">
+                            <div class="description">Convert an APNG animation to a GIF image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert GIF to APNG</div>
+                        <div class="body">
+                            <div class="description">Convert a GIF animation to an APNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert APNG to Webp</div>
+                        <div class="body">
+                            <div class="description">Convert an APNG image to a Webp image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert Webp to APNG</div>
+                        <div class="body">
+                            <div class="description">Convert a Webp image to an APNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert APNG to MP4</div>
+                        <div class="body">
+                            <div class="description">Convert an APNG image to an MP4 video.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert MP4 to APNG</div>
+                        <div class="body">
+                            <div class="description">Convert an MP4 video to an APNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Extract APNG Frames</div>
+                        <div class="body">
+                            <div class="description">Extract all frames from an APNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">APNG Player</div>
+                        <div class="body">
+                            <div class="description">Play a PNG animation (APNG) frame by frame.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Change APNG Speed</div>
+                        <div class="body">
+                            <div class="description">Change the playback speed of an animated PNG (APNG).</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Set APNG Loop Count</div>
+                        <div class="body">
+                            <div class="description">Change how many times an animated PNG loops.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Reverse an APNG</div>
+                        <div class="body">
+                            <div class="description">Reverse the order of frames in an animated PNG (APNG).</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">APNG Creator</div>
+                        <div class="body">
+                            <div class="description">Created animated PNGs (APNGs) from input images.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Create a Glitch PNG</div>
+                        <div class="body">
+                            <div class="description">Randomly distort data in a PNG file to make a glitched PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Randomize PNG Pixels</div>
+                        <div class="body">
+                            <div class="description">Rearrange pixels or pixel blocks in a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Erase a Part of a PNG</div>
+                        <div class="body">
+                            <div class="description">Quickly erase any part of a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Extract PNG Color Channels</div>
+                        <div class="body">
+                            <div class="description">Extract RGB color channels from a PNG file.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG Color Space</div>
+                        <div class="body">
+                            <div class="description">Convert between RGB, CMYK, HSV, and HSL color spaces.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG Bit Depth</div>
+                        <div class="body">
+                            <div class="description">Convert between 8-bit, 16-bit, 24-bit, and 32-bit PNG depths.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Create ASCII Art from PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG to an ASCII art image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Create ANSI Art from PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG to an ANSI art image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert PNG to a Single Color PNG</div>
+                        <div class="body">
+                            <div class="description">Convert a PNG image to a monocolor PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Shift a PNG</div>
+                        <div class="body">
+                            <div class="description">Shift a PNG to the left or to the right.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Skew a PNG</div>
+                        <div class="body">
+                            <div class="description">Skew a PNG image by an angle.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Create White Noise PNG</div>
+                        <div class="body">
+                            <div class="description">Generate a PNG image with white noise.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Create an Empty PNG</div>
+                        <div class="body">
+                            <div class="description">Generate a PNG that contains just one color.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Remove PNG Chroma Key</div>
+                        <div class="body">
+                            <div class="description">Remove the green screen background from a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Extract a Color from a PNG</div>
+                        <div class="body">
+                            <div class="description">Remove all colors except one from a PNG image.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Generate All Color PNG</div>
+                        <div class="body">
+                            <div class="description">Create a PNG that contains all possible RGB colors.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Extract Text from a PNG</div>
+                        <div class="body">
+                            <div class="description">Find all textual information in a PNG image and extract it.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Convert a PNG to a BW Image</div>
+                        <div class="body">
+                            <div class="description">Create a two color black and white picture from a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Zoom a PNG</div>
+                        <div class="body">
+                            <div class="description">Zoom in or out of a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Generate a Gradient PNG</div>
+                        <div class="body">
+                            <div class="description">Create a PNG with a color gradient.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Remove Text from a PNG</div>
+                        <div class="body">
+                            <div class="description">Quickly erase text (labels, captions) from a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Remove a Watermark from a PNG</div>
+                        <div class="body">
+                            <div class="description">Quickly delete a watermark from a PNG.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Fix a Broken PNG</div>
+                        <div class="body">
+                            <div class="description">Salvage a PNG that has bad bytes in it and doesn't open.</div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="card">
+                    <div class="block">
+                        <div class="title">Erase PNG Metadata</div>
+                        <div class="body">
+                            <div class="description">Delete meta data from a PNG picture.</div>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+
+    <div class="fullwidth-wrapper">
+    <div class="container">
+        <div class="content">
+            <div class="section subscribe subscription">
+                <div class="icon"><svg class="svg-icon svg-icon-email"><use xlink:href="#icon-email"></use></svg></div>
+                <div class="body">
+                    <div class="body-title">
+                        <span class="primary">Subscribe!</span>
+                        <span class="secondary">Never miss an update</span>
+                    </div>
+                    <div class="onlinetools-subscribe-box clearfix">
+                        <div class="onlinetools-subscribe-form">
+                            <input class="subscribe-input-email" placeholder="your email" type="text">
+                            <button class="subscribe-submit">Subscribe</button>
+                        </div>
+                        <div class="subscribe-success">Cool!</div>
+                    </div>
+                </div>
+            </div>
+            <div class="section subscribe notification">
+                <div class="icon"><svg class="svg-icon svg-icon-notifications"><use xlink:href="#icon-notifications"></use></svg></div>
+                <div class="body">
+                    <div class="body-title">
+                        <span class="primary which-tool">Notifications</span>
+                        <span class="secondary">We'll let you know when we add this tool</span>
+                    </div>
+                    <div class="onlinetools-subscribe-box clearfix">
+                        <div class="onlinetools-subscribe-form">
+                            <input class="subscribe-input-email" placeholder="your email" type="text">
+                            <button class="subscribe-submit">Notify me!</button>
+                            <button class="subscribe-cancel">Nevermind</button>
+                        </div>
+                        <div class="subscribe-success">Cool!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="footer container">
+        <div class="content">
+            <div class="section feedback" id="feedback">
+    <div class="icon"><svg class="svg-icon"><use xlink:href="#icon-feedback"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Feedback</span>
+            <span class="secondary">we'd love to hear from you!</span>
+        </div>
+        <div id="feedback-box" class="feedback-box">
+            <div class="feedback-form">
+                <input id="feedback-input-email" type="text" placeholder="your email">
+                <input id="feedback-input-subject" type="text" placeholder="subject">
+                <textarea id="feedback-input-text" placeholder="your thoughts"></textarea>
+                <button id="feedback-submit" class="feedback-button">Submit</button>
+            </div>
+            <div class="feedback-error">
+                <div id="feedback-error-message"></div>
+                <button id="feedback-retry" class="feedback-button">Back</button>
+            </div>
+            <div class="feedback-success">
+                <div id="feedback-success-message"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <div class="section created-by">
+    <div class="icon"><svg class="svg-icon svg-icon-with-love"><use xlink:href="#icon-with-love"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Created with love by <span class="browserling-logo"><img data-src="/images/logo-browserling.png" alt="browserling" class="lazyload" width="206" height="35"></span></span>
+            <div class="fffff-and-ttttt">
+                <div class="fffff">51K</div>
+                <div class="ttttt">@browserling</div>
+            </div>
+        </div>
+        <div class="body-content">
+          We're <a href="https://www.browserling.com/?from=tools-png-cr-2021-04-25">Browserling</a> — a friendly and fun cross-browser testing company powered by alien technology. At Browserling we love to make developers' lives easier, so we created this collection of online PNG tools. Unlike many other tools, we made our tools free, without intrusive ads, and with the simplest possible user interface. Our online PNG tools are actually powered by our <a href="https://www.browserling.com/tools?from=tools-png-crt-2021-04-25" rel="nofollow">web developer tools</a> that we created over the last couple of years. Check them out!
+        </div>
+    </div>
+</div>
+
+            <div class="section secret">
+    <div class="icon"><svg class="svg-icon svg-icon-cake"><use xlink:href="#icon-cake"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Secret message</span>
+        </div>
+        <div class="body-content">
+            If you love our tools, then we love you, too! Use coupon code <span class="coupon-code">PNGLING</span> to get a discount at Browserling.
+        </div>
+    </div>
+</div>
+
+            <div class="section privacy-policy">
+    <div class="icon"><svg class="svg-icon svg-icon-lock"><use xlink:href="#icon-lock"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Privacy Policy</span>
+            <span class="secondary">we don't log data!</span>
+        </div>
+        <div class="body-content">
+            All conversions and calculations are done in your browser using JavaScript. We don't send a single bit about your input data to our servers. There is no server-side processing at all. We use Google Analytics and StatCounter for site usage analytics. Your IP address is saved on our web server, but it's not associated with any personally identifiable information. We don't use cookies and don't store session information in cookies. We use your browser's local storage to save tools' input. It stays on your computer.
+        </div>
+    </div>
+</div>
+
+            <div class="section tos">
+    <div class="icon"><svg class="svg-icon svg-icon-school"><use xlink:href="#icon-school"></use></svg></div>
+    <div class="body">
+        <div class="body-title">
+            <span class="primary">Terms of Service</span>
+            <span class="secondary">the legal stuff</span>
+        </div>
+        <div class="body-content">
+          By using Online Png Tools you agree to our <a href="https://onlinepngtools.com/terms-of-service">Terms of Service</a>. TLDR: You don't need an account to use our tools. All tools are free of charge and you can use them as much as you want. You can't do illegal or shady things with our tools. We may block your access to tools, if we find out you're doing something bad. We're not liable for your actions and we offer no warranty. We may revise our terms at any time.
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+  var sc_project=11630682;
+  var sc_invisible=1; 
+  var sc_security="9f8bbd53";
+</script>
+<script src="./faclt_files/counter.js.download" defer=""></script>
+
+<script defer="" src="./faclt_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments) };
+  gtag('js', new Date());
+  gtag('config', 'UA-107985729-11');
+</script>
+
+</div>
+
+
+
+<div id="codepair-extension-installed"></div></body></html>
